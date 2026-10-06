@@ -1,0 +1,15 @@
+{
+  "apiVersion": "dashboard.grafana.app/v0alpha1",
+  "kind": "Dashboard",
+  "metadata": {
+    "name": "client-2-e2e-1791286016"
+  },
+  "spec": {
+    "panels": [],
+    "schemaVersion": 41,
+    "tags": [
+      "e2e"
+    ],
+    "title": "E2E client-2 1791286016"
+  }
+}
